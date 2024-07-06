@@ -1,0 +1,13 @@
+requirements_content = """
+transformers
+torch
+datasets
+"""
+
+# Save to a file
+requirements_path = "/mnt/data/requirements.txt"
+with open(requirements_path, "w") as file:
+    file.write(requirements_content)
+
+requirements_path
+
