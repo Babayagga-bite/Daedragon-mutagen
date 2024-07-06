@@ -5,7 +5,7 @@ Requisitos
     Python 3.6 o superior
     Biblioteca Transformers de Hugging Face
 
-Instalación
+Instalación:
 bash run.sh
 
 Para cualquier apoyo al proyecto realice sus donativos en bitcoin: bc1qqpe79vjsxh8c2g2g8l78jkrpsf6du0lnlak40q
