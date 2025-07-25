@@ -8,4 +8,4 @@ Requisitos
 Instalación:
 bash run.sh
 
-Para cualquier apoyo al proyecto realice sus donativos a :ES50 0049 5525 5928 1132 8290
+Para cualquier apoyo al proyecto realice sus invitaciones a café en :ES50 0049 5525 5928 1132 8290
